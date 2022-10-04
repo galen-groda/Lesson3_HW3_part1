@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8e086bb-b71d-4459-b1bc-f5ecc01c16c1" name="Changes" comment="" />
+    <list default="true" id="f8e086bb-b71d-4459-b1bc-f5ecc01c16c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexL3.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexL3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scriptL3.js" beforeDir="false" afterPath="$PROJECT_DIR$/scriptL3.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +23,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Fg3bbtj22JgU7GGhldUfvlf5SG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,10 +56,23 @@
       <workItem from="1664899973158" duration="115000" />
       <workItem from="1664900096580" duration="9000" />
       <workItem from="1664900173727" duration="46000" />
+      <workItem from="1664900253023" duration="128000" />
+      <workItem from="1664902542810" duration="3244000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
