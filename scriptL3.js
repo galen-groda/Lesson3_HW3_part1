@@ -37,6 +37,17 @@ btns2.forEach(function (btn2) {
     })
 })
 
+let alpCheck = document.querySelector('.finalCheck_product');
+
+
+let alpAmount = +counter1.value
+let alpPrice = alpAmount*3.15;
+
+alpCheck.innerHTML = alpPrice  + ' $'
+
+
+
+
 /*let alpCheck = document.querySelector('.alpine_finalCheck_product');
 
 let alpFinCh = +counter1 * 3.15;
